@@ -42,5 +42,9 @@
     },
     "devDependencies": {
         "gh-pages": "^4.0.0"
-    }
+    },
+    "main": "index.js",
+    "repository": "https://github.com/northchong/TIC-TAC-TOE-GAME",
+    "author": "Tõnu Tarve <tonu.tarve99@hotmail.com>",
+    "license": "MIT"
 }
