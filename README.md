@@ -7,6 +7,11 @@
 
 ## Kuidas kasutada
 
+1. esmalt vaja installida docker
+2. hankida internetist läbi powershelli docker container:
+        käsklus: ```docker pull northchong/tic-tac-toe``` 
+3. jooksutada container käsklusega ```docker run -p 8000:3000 northchong/tic-tac-toe:latest```
+4. brauseris minna lehele ```http://localhost:8000/```
 
 
 ## Esinenud probleemid
