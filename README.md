@@ -5,6 +5,14 @@
  - `ReactJS`
  - `Framer Motion`
 
+## Kuidas kasutada
+
+
+
+## Esinenud probleemid
+
+Ohtralt muresid tekkis esimesel kokkupuutel Dockeriga - nimelt oli raske aru saada, kuidas Docker töötab, kuhu vastavad koodiread kirjutada vaja ning ka juhend oli kohati arusaamatu. Tekkis ka üks-kaks errorit, mida ise lahendada ei suutnud ning tuli nullist alustada uue dockerfile, image ja containeriga.
+
 ## :book: How to use
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [ReactJS](https://react.dev/) installed on your computer. From your command line:
 

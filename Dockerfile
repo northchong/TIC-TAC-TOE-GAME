@@ -1,4 +1,4 @@
-FROM node:21.6.1
+FROM node:21
 
 WORKDIR /TIC-TAC-TOE-GAME/
 
@@ -10,3 +10,4 @@ RUN npm install
 
 EXPOSE 8000
 CMD ["npm", "start"]
+
